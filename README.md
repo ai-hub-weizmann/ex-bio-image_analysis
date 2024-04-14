@@ -23,12 +23,12 @@ In this tutorial we will use the task of nuclei segmentation learn how to:
 
 1. Use the StarDist Deep-learning instance segmentation for nuclei segmentation within the Fiji image analysis platform, using pre-trained model.
 
-2)      Try it on nuclei from different biological experiments, and explore cases where it works well and less so, and try to understand why this happens and what can be done to improve it.
+2. Try it on nuclei from different biological experiments, and explore cases where it works well and less so, and try to understand why this happens and what can be done to improve it.
 
-3)      We will train our own StarDist models using an easy to use and accessible, code-free solution called ZeroCostDL4Mic, using a given training dataset. We will try it within a Google-colab using a Jupyter Notebook and deploy the trained model within Fiji.
+3. We will train our own StarDist models using an easy to use and accessible, code-free solution called ZeroCostDL4Mic, using a given training dataset. We will try it within a Google-colab using a Jupyter Notebook and deploy the trained model within Fiji.
 
-4)      We will learn how to prepare ground-truth dataset for training on our own task, and use it to retrain the initial model using our own data.
+4. We will learn how to prepare ground-truth dataset for training on our own task, and use it to retrain the initial model using our own data.
 
-5)      You can then explore the effects of different training parameters and augmentation on the results.
+5. You can then explore the effects of different training parameters and augmentation on the results.
 
-6)      You are welcome to explore other options within ZeroCodeDL4Mic.
+6. You are welcome to explore other options within ZeroCodeDL4Mic.
