@@ -2,10 +2,22 @@
 This repository contains a link to Ofra Golani's bio-image analysis tutorials.
 
 The first link is a link to Ofra's tutorial about image analysis with Fiji:
+
+# Incorporating Machine Learning Tools into Image Analysis Workflows using Fiji, Ilastik and Stardist
+
+A typical image analysis workflow includes segmentation of regions and objects (eg nuclei or cells), measuring multiple features for objects and regions, and 
+
+quantifying relations between objects. Fiji is an open-source software platform based on ImageJ and a collection of compatible plugins focusing on general purpose
+
+image analysis for life-sciences. It is scriptable and enables fast prototyping of image analysis workflows. Ilastik, StarDist and other Fiji plugins provide an 
+
+easy way to exploits recent advances in machine-learning and deep-learning based algorithms as handy components for use within image analysis workflows. In this 
+
+hands-on workshop we introduce building image analysis workflows using Fiji, Ilastik and StarDist: 
+
 https://github.com/WIS-MICC-CellObservatory/OsteoclastsWorkflow-Tutorial.
 
 Data used within this tutorial is courtsey of Dr. Sabina Winograd-Katz and Prof. Benny Geiger, Weizmann Institute of Science
-
 
 For questions about the tutorial, please contact me (Avital Steinberg from the AI-hub for science)
 
