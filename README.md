@@ -19,9 +19,9 @@ A typical image analysis workflow includes segmentation of regions and objects (
 
 There are many approaches for object segmentation and one should choose an appropriate approach for his own task. Deep learning based object segmentation became a leading method for many bioimage analysis (BIA) tasks. However, using them from scratch have a big overload of preparing large training dataset, selecting network architecture and implementing it. Models are usually trained for specific tasks, and are rarely suitable for general purpose applications.
 
-In this tutorial we will use the task of nuclei segmentation learn how to 
+In this tutorial we will use the task of nuclei segmentation learn how to:
 
-1)      Use the StarDist Deep-learning instance segmentation for nuclei segmentation within the Fiji image analysis platform, using pre-trained model.
+1. Use the StarDist Deep-learning instance segmentation for nuclei segmentation within the Fiji image analysis platform, using pre-trained model.
 
 2)      Try it on nuclei from different biological experiments, and explore cases where it works well and less so, and try to understand why this happens and what can be done to improve it.
 
