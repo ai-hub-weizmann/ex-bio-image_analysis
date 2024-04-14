@@ -1,4 +1,4 @@
-## ex-bio-image-analysis
+## Ex-bio-image-analysis
 This repository contains a link to Ofra Golani's bio-image analysis tutorials.
 
 The first link is a link to Ofra's tutorial about image analysis with Fiji:
@@ -21,15 +21,19 @@ Data used within this tutorial is courtsey of Dr. Sabina Winograd-Katz and Prof.
 
 For questions about the tutorial, please contact me (Avital Steinberg from the AI-hub for science)
 
-Link: https://www.dropbox.com/scl/fo/ofnld2p0i8k5tbip48gn7/h?rlkey=s5leoh3ei1ph7i4iej4bnbynb&dl=0
- 
 ## ZeroCode Deep Learning for BioImage Analysis
 
 This is a link to Ofra Golani's new Zero Code Deep Learning tutorial. If you have a mac with the new silicon chip, it's recommended to use a PC instead:
+
+Link: https://www.dropbox.com/scl/fo/ofnld2p0i8k5tbip48gn7/h?rlkey=s5leoh3ei1ph7i4iej4bnbynb&dl=0
  
 A typical image analysis workflow includes segmentation of regions and objects (eg nuclei or cells), measuring multiple features for objects and regions, and quantifying relations between objects.
 
-There are many approaches for object segmentation and one should choose an appropriate approach for his own task. Deep learning based object segmentation became a leading method for many bioimage analysis (BIA) tasks. However, using them from scratch have a big overload of preparing large training dataset, selecting network architecture and implementing it. Models are usually trained for specific tasks, and are rarely suitable for general purpose applications.
+There are many approaches for object segmentation and one should choose an appropriate approach for his own task. Deep learning based object segmentation became a 
+
+leading method for many bioimage analysis (BIA) tasks. However, using them from scratch have a big overload of preparing large training dataset, selecting network 
+
+architecture and implementing it. Models are usually trained for specific tasks, and are rarely suitable for general purpose applications.
 
 In this tutorial we will use the task of nuclei segmentation learn how to:
 
@@ -44,3 +48,6 @@ In this tutorial we will use the task of nuclei segmentation learn how to:
 5. You can then explore the effects of different training parameters and augmentation on the results.
 
 6. You are welcome to explore other options within ZeroCodeDL4Mic.
+
+7. For questions about the tutorial, please contact me (Avital Steinberg from the AI-hub for science)
+
